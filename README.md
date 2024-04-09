@@ -9,7 +9,7 @@ DevLinks é um agregador de links responsivo e com troca de tema que você pode 
 </p>
 
 <p align="center">
-  <img src=".github/preview.jpg" width="100%">
+  <img src=".github/preview light.png" width="100%">
 </p>
 
  <h2 align="center"><a href="https://kaiquerebonato.github.io/Discover/" target="_blank">Projeto ao vivo</a></h2>
